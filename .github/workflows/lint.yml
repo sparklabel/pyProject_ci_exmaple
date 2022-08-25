@@ -1,4 +1,4 @@
-name: Lint Coce Base
+name: Lint Code Base
 
 on: push
 
